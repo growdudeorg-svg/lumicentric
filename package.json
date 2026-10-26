@@ -1,0 +1,21 @@
+{
+  "name": "anvaya-interior-design-portfolio",
+  "version": "1.0.0",
+  "description": "Premium Single-Page Interior Design & Turnkey Execution Portfolio for Pune, Maharashtra",
+  "type": "module",
+  "scripts": {
+    "start": "agy-node server.js",
+    "start:ps": "powershell -ExecutionPolicy Bypass -File serve.ps1",
+    "generate-assets": "agy-node generate-assets.js"
+  },
+  "keywords": [
+    "interior-design",
+    "single-page-portfolio",
+    "turnkey-interiors",
+    "modular-kitchen",
+    "epoxy-flooring",
+    "pune"
+  ],
+  "author": "Anvaya Atelier",
+  "license": "MIT"
+}
